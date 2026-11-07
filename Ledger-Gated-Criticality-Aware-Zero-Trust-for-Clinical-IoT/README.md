@@ -1,4 +1,4 @@
-# BZT-SHIS v2 on real TON_IoT flows
+# Ledger-Gated, Criticality-Aware Zero Trust for Clinical IoT:Evaluation on TON_IoT Flows with a Simulated Identity Layer
 
 Run `BZT_SHIS_v2.ipynb` top to bottom (about 50 seconds). Needs numpy, pandas, scikit-learn, matplotlib, cryptography.
 Keep these next to the notebook: `toniot_zt_sessions.csv`, `device_registry_toniot.csv`, `build_toniot_sessions.py`, `generate_dataset.py`.

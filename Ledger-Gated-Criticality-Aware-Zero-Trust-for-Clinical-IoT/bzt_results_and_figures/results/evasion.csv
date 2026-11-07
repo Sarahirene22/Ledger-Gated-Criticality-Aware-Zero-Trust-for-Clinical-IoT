@@ -1,0 +1,101 @@
+eps,method,group,rate
+0.0,"B1 RF, standard",CONTROL: perturbed legit sessions,0.005574559736475358
+0.0,"B1 RF, standard",network+data attacks,0.9891756869275604
+0.0,"B1 RF, standard",identity attacks,0.008830022075055188
+0.0,"B1 RF, standard",all attacks,0.5676317038443285
+0.0,"B1 RF, standard",legit sessions (FRR),0.005574559736475358
+0.0,"A4 full, standard",CONTROL: perturbed legit sessions,0.005194476118079311
+0.0,"A4 full, standard",network+data attacks,0.9850124895920067
+0.0,"A4 full, standard",identity attacks,0.9503311258278145
+0.0,"A4 full, standard",all attacks,0.9700996677740864
+0.0,"A4 full, standard",legit sessions (FRR),0.005194476118079311
+0.0,"B1r RF, evasion-aware",CONTROL: perturbed legit sessions,0.008235145065247688
+0.0,"B1r RF, evasion-aware",network+data attacks,0.9908409658617818
+0.0,"B1r RF, evasion-aware",identity attacks,0.00772626931567329
+0.0,"B1r RF, evasion-aware",all attacks,0.5681063122923588
+0.0,"B1r RF, evasion-aware",legit sessions (FRR),0.008235145065247688
+0.0,"A4r full, evasion-aware",CONTROL: perturbed legit sessions,0.0068415051311288486
+0.0,"A4r full, evasion-aware",network+data attacks,0.9900083263946711
+0.0,"A4r full, evasion-aware",identity attacks,0.9503311258278145
+0.0,"A4r full, evasion-aware",all attacks,0.9729473184622687
+0.0,"A4r full, evasion-aware",legit sessions (FRR),0.0068415051311288486
+0.25,"B1 RF, standard",CONTROL: perturbed legit sessions,0.008488534144178385
+0.25,"B1 RF, standard",network+data attacks,0.9666944213155704
+0.25,"B1 RF, standard",identity attacks,0.008830022075055188
+0.25,"B1 RF, standard",all attacks,0.5548172757475083
+0.25,"B1 RF, standard",legit sessions (FRR),0.005574559736475358
+0.25,"A4 full, standard",CONTROL: perturbed legit sessions,0.007474977828455594
+0.25,"A4 full, standard",network+data attacks,0.88759367194005
+0.25,"A4 full, standard",identity attacks,0.9503311258278145
+0.25,"A4 full, standard",all attacks,0.9145704793545325
+0.25,"A4 full, standard",legit sessions (FRR),0.005194476118079311
+0.25,"B1r RF, evasion-aware",CONTROL: perturbed legit sessions,0.03712150006334727
+0.25,"B1r RF, evasion-aware",network+data attacks,0.9941715237302248
+0.25,"B1r RF, evasion-aware",identity attacks,0.00772626931567329
+0.25,"B1r RF, evasion-aware",all attacks,0.5700047460844803
+0.25,"B1r RF, evasion-aware",legit sessions (FRR),0.008235145065247688
+0.25,"A4r full, evasion-aware",CONTROL: perturbed legit sessions,0.02255162802483213
+0.25,"A4r full, evasion-aware",network+data attacks,0.9900083263946711
+0.25,"A4r full, evasion-aware",identity attacks,0.9503311258278145
+0.25,"A4r full, evasion-aware",all attacks,0.9729473184622687
+0.25,"A4r full, evasion-aware",legit sessions (FRR),0.0068415051311288486
+0.5,"B1 RF, standard",CONTROL: perturbed legit sessions,0.009882174078297225
+0.5,"B1 RF, standard",network+data attacks,0.8759367194004996
+0.5,"B1 RF, standard",identity attacks,0.008830022075055188
+0.5,"B1 RF, standard",all attacks,0.5030849549121974
+0.5,"B1 RF, standard",legit sessions (FRR),0.005574559736475358
+0.5,"A4 full, standard",CONTROL: perturbed legit sessions,0.008361839604713038
+0.5,"A4 full, standard",network+data attacks,0.8101582014987511
+0.5,"A4 full, standard",identity attacks,0.9503311258278145
+0.5,"A4 full, standard",all attacks,0.8704318936877077
+0.5,"A4 full, standard",legit sessions (FRR),0.005194476118079311
+0.5,"B1r RF, evasion-aware",CONTROL: perturbed legit sessions,0.10781705308501204
+0.5,"B1r RF, evasion-aware",network+data attacks,0.9941715237302248
+0.5,"B1r RF, evasion-aware",identity attacks,0.00772626931567329
+0.5,"B1r RF, evasion-aware",all attacks,0.5700047460844803
+0.5,"B1r RF, evasion-aware",legit sessions (FRR),0.008235145065247688
+0.5,"A4r full, evasion-aware",CONTROL: perturbed legit sessions,0.052324844799189155
+0.5,"A4r full, evasion-aware",network+data attacks,0.9941715237302248
+0.5,"A4r full, evasion-aware",identity attacks,0.9503311258278145
+0.5,"A4r full, evasion-aware",all attacks,0.9753203607024205
+0.5,"A4r full, evasion-aware",legit sessions (FRR),0.0068415051311288486
+0.75,"B1 RF, standard",CONTROL: perturbed legit sessions,0.008235145065247688
+0.75,"B1 RF, standard",network+data attacks,0.8676103247293921
+0.75,"B1 RF, standard",identity attacks,0.008830022075055188
+0.75,"B1 RF, standard",all attacks,0.4983388704318937
+0.75,"B1 RF, standard",legit sessions (FRR),0.005574559736475358
+0.75,"A4 full, standard",CONTROL: perturbed legit sessions,0.00658811605219815
+0.75,"A4 full, standard",network+data attacks,0.7318900915903414
+0.75,"A4 full, standard",identity attacks,0.9503311258278145
+0.75,"A4 full, standard",all attacks,0.8258186995728524
+0.75,"A4 full, standard",legit sessions (FRR),0.005194476118079311
+0.75,"B1r RF, evasion-aware",CONTROL: perturbed legit sessions,0.2141137716964399
+0.75,"B1r RF, evasion-aware",network+data attacks,1.0
+0.75,"B1r RF, evasion-aware",identity attacks,0.00772626931567329
+0.75,"B1r RF, evasion-aware",all attacks,0.5733270052206929
+0.75,"B1r RF, evasion-aware",legit sessions (FRR),0.008235145065247688
+0.75,"A4r full, evasion-aware",CONTROL: perturbed legit sessions,0.07170910933738756
+0.75,"A4r full, evasion-aware",network+data attacks,0.9991673605328892
+0.75,"A4r full, evasion-aware",identity attacks,0.9503311258278145
+0.75,"A4r full, evasion-aware",all attacks,0.9781680113906027
+0.75,"A4r full, evasion-aware",legit sessions (FRR),0.0068415051311288486
+1.0,"B1 RF, standard",CONTROL: perturbed legit sessions,0.012416064867604206
+1.0,"B1 RF, standard",network+data attacks,0.855120732722731
+1.0,"B1 RF, standard",identity attacks,0.008830022075055188
+1.0,"B1 RF, standard",all attacks,0.49121974371143806
+1.0,"B1 RF, standard",legit sessions (FRR),0.005574559736475358
+1.0,"A4 full, standard",CONTROL: perturbed legit sessions,0.007221588749524895
+1.0,"A4 full, standard",network+data attacks,0.671940049958368
+1.0,"A4 full, standard",identity attacks,0.9503311258278145
+1.0,"A4 full, standard",all attacks,0.7916468913146654
+1.0,"A4 full, standard",legit sessions (FRR),0.005194476118079311
+1.0,"B1r RF, evasion-aware",CONTROL: perturbed legit sessions,0.36589382997592806
+1.0,"B1r RF, evasion-aware",network+data attacks,0.9975020815986678
+1.0,"B1r RF, evasion-aware",identity attacks,0.00772626931567329
+1.0,"B1r RF, evasion-aware",all attacks,0.5719031798766018
+1.0,"B1r RF, evasion-aware",legit sessions (FRR),0.008235145065247688
+1.0,"A4r full, evasion-aware",CONTROL: perturbed legit sessions,0.3250981882680856
+1.0,"A4r full, evasion-aware",network+data attacks,0.9908409658617818
+1.0,"A4r full, evasion-aware",identity attacks,0.9503311258278145
+1.0,"A4r full, evasion-aware",all attacks,0.973421926910299
+1.0,"A4r full, evasion-aware",legit sessions (FRR),0.0068415051311288486

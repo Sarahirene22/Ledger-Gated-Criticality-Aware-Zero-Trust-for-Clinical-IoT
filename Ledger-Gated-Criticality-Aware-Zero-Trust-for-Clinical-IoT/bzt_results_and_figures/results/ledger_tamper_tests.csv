@@ -1,0 +1,8 @@
+test,detected,detail,block
+T1 flip a DENY to ALLOW in place,True,transaction content does not match its recorded hash,32.0
+T2 rewrite block + recompute hashes (no validator keys),True,only 0 valid validator signatures (< quorum 3),32.0
+T3 delete a block,True,broken link to previous block,33.0
+T4 one compromised validator re-signs rewritten block,True,only 1 valid validator signatures (< quorum 3),32.0
+T5 rogue REGISTER signed by 1 validator(s),True,rejected: no quorum,
+T5 rogue REGISTER signed by 2 validator(s),True,rejected: no quorum,
+T5 rogue REGISTER signed by 3 validator(s),False,ACCEPTED (>= quorum colluding validators; trust assumption f < n/3),
